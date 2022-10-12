@@ -1,0 +1,4 @@
+harmonic0.C
+
+LIB = $(FOAM_USER_LIBBIN)/libAdditionalInterpolationSchemes
+
